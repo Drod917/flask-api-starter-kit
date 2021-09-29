@@ -7,6 +7,8 @@ The primary goal of this project is to remain as **unopinionated** as possible. 
 This starter kit comes with a [tutorial](https://github.com/antkahn/flask-api-starter-kit/blob/tutorial/doc/installation.md).
 Check it out if you want a quick tutorial on how to use Flask with this architecure.
 
+This is the dev branch.
+
 ## Table of Contents
 
 1. [Dependencies](#dependencies)
